@@ -56,7 +56,7 @@ Motto: "I am the best!"
 | 🌟 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Repo | 🚀 Live Demo |
 |---|---|---|---|---|
 | **Money Mitra** 🏦 | Full-stack anime-themed digital banking platform with UPI, loans, EMI & credit cards | `HTML` `CSS` `JS` `Node.js` `Express` `MySQL` | [GitHub](https://github.com/ankitdas37/Money-Mitra-Simple-Banking-System-Website) | [▶ Live](https://money-mitra-simple-banking-system-w.vercel.app) |
-| **Akku ClipGen** 🎬 | Website to clip long videos into short segments — download video & audio clips instantly | `Next.js` `React` `JavaScript` `FFmpeg` | [GitHub](https://github.com/ankitdas37/Akku-ClipGen) | [▶ Live](https://akku-clip-gen.vercel.app) |
+| **Akku ClipGen** 🎬 | Website to clip long videos into short segments — download video & audio clips instantly | `Next.js` `React` `JavaScript` `FFmpeg` | [GitHub](https://github.com/ankitdas37/Akku-ClipGen) | [▶ Live](https://akku-clipgen.onrender.com/) |
 | **Ankit Portfolio** 🌐 | Personal developer portfolio website | `HTML` `CSS` `JS` | [GitHub](https://github.com/ankitdas37/Ankit-Portfolio) | [▶ Live](https://ankitdas37.github.io/Ankit-Portfolio/) |
 
 <br>
